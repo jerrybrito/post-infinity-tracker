@@ -1,0 +1,2 @@
+# Requires: infinite-duration
+# (Not available on PyPI)
